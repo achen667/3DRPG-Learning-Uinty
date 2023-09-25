@@ -1,2 +1,2 @@
-# 3DRPG-Learning-Uinty
+# 3DRPG-Learning-Unity
 Unity Learning Project
